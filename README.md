@@ -1,4 +1,5 @@
 **Code in Place by Stanford 2024**
+
 Welcome to my repository for the Code in Place 2024 course by Stanford University. This repository contains my final project and some of the course’s week-wise projects and challenge problems.
 
 **Future Updates**
