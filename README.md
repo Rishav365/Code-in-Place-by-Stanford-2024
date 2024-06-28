@@ -13,7 +13,9 @@ To run the projects:
 Clone this repository to your local machine.
 Navigate to the project directory.
 Run the Python script corresponding to the project.
-Contributions
+
+**Contributions**
+
 Contributions to improve the game or other projects are welcome! Fork the repository and submit a pull request with your proposed changes.
 
 **Contact**
