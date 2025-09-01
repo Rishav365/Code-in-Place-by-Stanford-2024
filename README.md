@@ -15,4 +15,4 @@ Contributions to improve the game or other projects are welcome! Fork the reposi
 
 **Contact**
 
-Feel free to reach out to me through GitHub or via email at rishavdey.rd@gmail.com.
+Feel free to reach out to me through GitHub.
