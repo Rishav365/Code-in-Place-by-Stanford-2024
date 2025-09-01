@@ -1,18 +1,13 @@
-**Code in Place by Stanford 2024**
+**Code in Place 2024 by Stanford University**
 
 Welcome to my repository for the Code in Place 2024 course by Stanford University. This repository contains my final project and some of the course’s week-wise projects and challenge problems.
 
-**Future Updates**
-
-I will be adding more projects from the Code in Place course soon. Stay tuned for more exciting Python projects!
-
 **Usage**
 
-To run the projects:
-
-Clone this repository to your local machine.
-Navigate to the project directory.
-Run the Python script corresponding to the project.
+To run any project locally:  
+1. Clone this repository  
+2. Navigate to the project folder  
+3. Run the corresponding Python script 
 
 **Contributions**
 
